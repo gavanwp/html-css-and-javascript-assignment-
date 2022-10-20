@@ -1,0 +1,45 @@
+#main{
+    width: 90%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid red;
+    position: relative;
+ 
+}
+h1{
+    text-align: center;
+    color: tomato;
+}
+#div1{
+width: 80px ;
+height: 90px;
+background-color: tomato;
+padding: 20px;
+color: white;
+position: absolute;
+top: 0px;
+bottom: 0px;
+
+}
+
+.div2{
+    width: 80px;
+    height: 90px;
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
+.div3{
+    width: 80px;
+    height: 90px;
+    background-color: tomato;
+    color: white;
+    position: absolute;
+    top: 30%;
+    right: -25px;
+    padding: 20px;
+   
+}

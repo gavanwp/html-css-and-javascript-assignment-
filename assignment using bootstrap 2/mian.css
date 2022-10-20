@@ -1,0 +1,97 @@
+.main {
+  background-color: rgb(32, 133, 124) !important ;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* border: 2px solid red; */
+  height: 400px;
+}
+.row1 {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: center;
+  align-items: center;
+}
+.col > h1,
+p {
+  /* border: 2px solid rgb(102, 255, 0); */
+  text-align: center;
+  color: white;
+}
+
+.divq2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px !important ;
+}
+#h4 {
+  color: rgb(32, 133, 124);
+  margin-left: 20px;
+  padding-bottom: 10px;
+}
+
+.minbox {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.mybox {
+  /* border: 2px solid red; */
+  height: 350px;
+  width: 310px !important ;
+  margin: 8px;
+  margin-bottom: 20px;
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.p3 {
+  color: rgba(32, 133, 125, 0.868);
+}
+
+.h3 {
+  color: rgba(50, 50, 50, 0.742);
+}
+.p2 {
+  color: rgba(50, 50, 50, 0.742);
+}
+
+.bg5 {
+  background-color: rgba(32, 133, 125, 0.868);
+}
+
+.bg4 {
+  background-color: rgba(32, 133, 125, 0.575);
+}
+
+.bg3 {
+  background-color: rgba(32, 133, 125, 0.484);
+}
+
+.bg2 {
+  background-color: rgba(32, 133, 125, 0.402);
+}
+
+.bg1 {
+  background-color: rgba(32, 133, 125, 0.276);
+}
+
+.mybox1 {
+  height: 350px;
+  width: 310px !important ;
+  margin: 8px;
+}
+.row{
+display: flex;
+
+
+}

@@ -1,0 +1,48 @@
+
+.div1  {
+    width: 98%;
+    height: 40px;
+    border: 5px solid red;
+   
+   padding-bottom: 40px;
+   position: absolute;
+   
+   
+   
+}
+h2{
+    text-align: center;
+ 
+}
+#div1{
+    width: 25%;
+    height: 300px;
+    border: 5px solid blue;
+    float: left;
+    margin-right: 5px;
+    margin-top: 120px;
+}
+#div2{
+    width: 47%;
+    height: 300px;
+    border: 5px solid blue;
+    float: left;
+    margin-top: 120px;
+    
+}
+#div3{
+    width: 25%;
+    height: 300px;
+    border: 5px solid rgb(64, 255, 0);
+    float: right;
+    margin-top: 120px;
+}
+
+#div4{
+    width: 98%;
+    height: 40px;
+    border: 5px solid red;
+    position: absolute;
+    bottom: 200px;
+    padding-bottom: 20px;
+}
